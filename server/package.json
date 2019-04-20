@@ -1,8 +1,8 @@
 {
-    "name": "pvh-server",
+    "name": "server",
     "version": "1.0.0",
     "main": "index.js",
-    "description": "Server for pvh challenge",
+    "description": "Server for challenge",
     "scripts": {
         "start": "nodemon index.js",
         "update": "npm install --only=development; ./node_modules/.bin/yarn"
