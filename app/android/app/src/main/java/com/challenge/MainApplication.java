@@ -1,4 +1,4 @@
-package com.pvhchallenge;
+package com.challenge;
 
 import android.app.Application;
 
