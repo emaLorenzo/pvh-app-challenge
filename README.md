@@ -1,5 +1,9 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
+# React Native Challenge
+
+Boilerplate app to bootstrap your coding challenge
+
 ## Installation
 
 Use [react-native-rename](https://github.com/junedomingo/react-native-rename) to change the name, default is challenge.
