@@ -4,6 +4,10 @@
 
 Boilerplate app to bootstrap your coding challenge
 
+* Redux
+* Redux Sagas
+* React Navigation
+
 ## Installation
 
 Use [react-native-rename](https://github.com/junedomingo/react-native-rename) to change the name, default is challenge.
