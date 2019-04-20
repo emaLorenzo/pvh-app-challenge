@@ -2,7 +2,7 @@
 
 ## Installation
 
-Use [react-native-rename](https://pip.pypa.io/en/stable/) to change the name, default is challenge.
+Use [react-native-rename](https://github.com/junedomingo/react-native-rename) to change the name, default is challenge.
 
 ```bash
 yarn global add react-native-rename
