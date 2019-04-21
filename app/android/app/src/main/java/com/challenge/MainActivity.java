@@ -16,7 +16,7 @@ public class MainActivity extends ReactActivity {
         return "challenge";
     }
 
-    +  @Override
+    @Override
     protected ReactActivityDelegate createReactActivityDelegate() {
         return new ReactActivityDelegate(this, getMainComponentName()) {
             @Override

@@ -6,7 +6,11 @@ Boilerplate app to bootstrap your coding challenge
 
 * Redux
 * Redux Sagas
+* Redux Sauce
 * React Navigation
+* React Native Elements
+* React Native Vector Icon
+* Styled Components
 
 ## Installation
 
